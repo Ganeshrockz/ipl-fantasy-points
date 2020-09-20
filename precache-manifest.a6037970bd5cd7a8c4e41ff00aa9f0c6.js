@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4f37fcb63f20ea7d4c4a",
+    "revision": "dad1bddcc621310541bf",
     "url": "/ipl-fantasy-points/static/css/main.b9b24dce.chunk.css"
   },
   {
-    "revision": "4f37fcb63f20ea7d4c4a",
-    "url": "/ipl-fantasy-points/static/js/main.4f37fcb6.chunk.js"
+    "revision": "dad1bddcc621310541bf",
+    "url": "/ipl-fantasy-points/static/js/main.dad1bddc.chunk.js"
   },
   {
     "revision": "7a120c796ff37bd32dd2",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/ipl-fantasy-points/static/js/2.884f9fd5.chunk.js"
   },
   {
-    "revision": "0043ff9088f551c36b031a2bfd7ec4fa",
+    "revision": "d26805b8a6a19e1e93854f84804543e8",
     "url": "/ipl-fantasy-points/index.html"
   }
 ];
