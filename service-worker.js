@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ipl-fantasy-points/precache-manifest.c4cc3c79620eab0a26c3e6b72a131b9f.js"
+  "/ipl-fantasy-points/precache-manifest.91df5d5dc7252907a7aab93330e97dd8.js"
 );
 
 workbox.clientsClaim();
